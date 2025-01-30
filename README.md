@@ -1,5 +1,5 @@
 # Jogo de Xadrez em Java com Orientação a Objetos
-Bem-vindo ao repositório do Jogo de Xadrez desenvolvido em Python! Este projeto é uma implementação do clássico jogo de xadrez, destacando-se pelo uso eficiente e estruturado de conceitos de programação orientada a objetos.
+Bem-vindo ao repositório do Jogo de Xadrez desenvolvido em Java! Este projeto é uma implementação do clássico jogo de xadrez, destacando-se pelo uso eficiente e estruturado de conceitos de programação orientada a objetos.
 
 ## Recursos Principais:
 Orientação a Objetos:
